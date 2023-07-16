@@ -16,6 +16,7 @@ li {
 a {
   text-decoration: none;
   cursor: pointer;
+  color: #2E2E2E;
 }
 
 button {
@@ -294,7 +295,7 @@ summary:hover {
   padding-bottom: 10px;
 }
 
-.local_editor .a1 {
+.local_editor .link {
   font-family: system-ui;
   display: inline-block;
   margin: 10px 0;
